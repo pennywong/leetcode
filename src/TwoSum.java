@@ -1,9 +1,6 @@
-// Problem Link: https://oj.leetcode.com/problems/two-sum/
-
-import java.util.HashMap;
-import java.util.Map;
-
 /**
+ * Problem Link: https://oj.leetcode.com/problems/two-sum/
+ * 
  * Given an array of integers, find two numbers such that they add up to a
  * specific target number.
  * 
@@ -19,6 +16,10 @@ import java.util.Map;
  * 
  * @author Penny
  */
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class TwoSum {
 	/**
 	 * 1.最简单直观的方式是所有的数都两两相加进行判断，但时间复杂度是O(N^2)

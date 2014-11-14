@@ -19,8 +19,8 @@
  * string convert(string text, int nRows);
  * 
  * convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
- * 
- * @author Penny
+ *
+ * @author Penny on 2014/11/07
  *
  */
 public class ZigZag {

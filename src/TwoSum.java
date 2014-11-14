@@ -1,5 +1,5 @@
 /**
- * Problem Link: https://oj.leetcode.com/problems/two-sum/
+ * https://oj.leetcode.com/problems/two-sum/
  * 
  * Given an array of integers, find two numbers such that they add up to a
  * specific target number.
@@ -13,8 +13,8 @@
  * Input: numbers={2, 7, 11, 15}, target=9
  * 
  * Output: index1=1, index2=2
- * 
- * @author Penny
+ *
+ * @author Penny on 2014/11/04
  */
 
 import java.util.HashMap;
@@ -33,7 +33,7 @@ public class TwoSum {
 	 * .cpp 只需要用一个map就能够将第二个内部循环由O(N)变成O(1)，同时利用一点巧妙的处理，整个算法只需要O(N)即可
 	 * 
 	 */
-	public static int[] twoSum(int[] numbers, int target) {
+	public int[] twoSum(int[] numbers, int target) {
 		Map<Integer, Integer> map = new HashMap<Integer, Integer>();
 
 		for (int i = 0; i < numbers.length; i++) {

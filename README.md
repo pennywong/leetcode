@@ -16,3 +16,4 @@ LeetCode Java Solution
 | [Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/) | [Java](./src/SymmetricTree.java) |
 | [Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/) | [Java](./src/ValidPalindrome.java) |
 | [Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/) | [Java](./src/PascalTriangle.java) |
+| [Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/) | [Java](./src/PascalTriangleII.java) |

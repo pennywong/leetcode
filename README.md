@@ -1,4 +1,4 @@
-leetcode
+LeetCode
 ========
 
 LeetCode Java Solution
@@ -13,3 +13,4 @@ LeetCode Java Solution
 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/RemoveDuplicatesFromSortedArray.java) |
 | [Count and Say](https://oj.leetcode.com/problems/count-and-say/) | [Java](./src/CountAndSay.java) |
 | [Min Stack](https://oj.leetcode.com/problems/min-stack/) | [Java](./src/MinStack.java) |
+| [Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/) | [Java](./src/SymmetricTree.java) |

@@ -12,3 +12,4 @@ LeetCode Java Solution
 | [Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/) | [Java](./src/PalindromeNumber.java) |
 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/RemoveDuplicatesFromSortedArray.java) |
 | [Count and Say](https://oj.leetcode.com/problems/count-and-say/) | [Java](./src/CountAndSay.java) |
+| [Min Stack](https://oj.leetcode.com/problems/min-stack/) | [Java](./src/MinStack.java) |

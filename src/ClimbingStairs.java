@@ -5,6 +5,24 @@
  */
 public class ClimbingStairs {
     /**
+     * 参考 https://github.com/haoel/leetcode/blob/master/src/climbStairs/climbStairs.cpp
+     * 确实简单多了，其实题目本质就是F(n) = F(n-2) + F(n-1)
+     */
+    public int climbStairs(int n) {
+        if (n <= 3)
+            return n;
+
+        int[] a = {2, 3};
+        for (int i = 4; i <= n; i++) {
+            int t = a[0] + a[1];
+            a[0] = a[1];
+            a[1] = t;
+        }
+
+        return a[1];
+    }
+
+    /**
      * F(n) = F(n-2) + F(n-1) n>=3
      * <p/>
      * 使用一个数组记录已经计算过的数，减少运行时间
@@ -12,7 +30,7 @@ public class ClimbingStairs {
      * @param n
      * @return
      */
-    public int climbStairs(int n) {
+    public int climbStairs2(int n) {
         if (n == 0)
             return 0;
 

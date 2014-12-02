@@ -8,6 +8,24 @@ public class MaximumDepthOfBinaryTree {
         if (root == null)
             return 0;
 
+        if (root.left == null && root.right == null)
+            return 1;
+
+        int left = 1, right = 1;
+
+        if (root.left != null)
+            left += maxDepth(root.left);
+
+        if (root.right != null)
+            right += maxDepth(root.right);
+
+        return left >= right ? left : right;
+    }
+
+    public int maxDepth2(TreeNode root) {
+        if (root == null)
+            return 0;
+
         return depth(root, 0);
     }
 

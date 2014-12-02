@@ -8,6 +8,24 @@ public class MinimumDepthOfBinaryTree {
         if (root == null)
             return 0;
 
+        if (root.left == null && root.right == null)
+            return 1;
+
+        int left = Integer.MAX_VALUE, right = Integer.MAX_VALUE;
+
+        if (root.left != null)
+            left = minDepth(root.left) + 1;
+
+        if (root.right != null)
+            right = minDepth(root.right) + 1;
+
+        return left <= right ? left : right;
+    }
+
+    public int minDepth2(TreeNode root) {
+        if (root == null)
+            return 0;
+
         return depth(root, 0);
     }
 

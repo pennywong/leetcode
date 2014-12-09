@@ -12,7 +12,9 @@ LeetCode Java Solution
 | [Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/) | [Java](./src/PalindromeNumber.java) |
 | [Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/) | [Java](./src/ValidPalindrome.java) |
 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/RemoveDuplicatesFromSortedArray.java) |
+| [Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](./src/RemoveDuplicatesFromSortedArrayII.java) |
 | [Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./src/RemoveDuplicatesFromSortedList.java) |
+| [Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](./src/RemoveDuplicatesFromSortedListII.java) |
 | [Remove Element](https://oj.leetcode.com/problems/remove-element/) | [Java](./src/RemoveElement.java) |
 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./src/RemoveNthNodeFromEndOfList.java) |
 | [Count and Say](https://oj.leetcode.com/problems/count-and-say/) | [Java](./src/CountAndSay.java) |
@@ -27,6 +29,7 @@ LeetCode Java Solution
 | [Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/) | [Java](./src/MergeSortedArray.java) |
 | [Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/) | [Java](./src/MergeTwoSortedLists.java) |
 | [Path Sum](https://oj.leetcode.com/problems/path-sum/) | [Java](./src/PathSum.java) |
+| [Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/) | [Java](./src/PathSumII.java) |
 | [Same Tree](https://oj.leetcode.com/problems/same-tree/) | [Java](./src/SameTree.java) |
 | [Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/) | [Java](./src/StrStr.java) |
 | [Plus One](https://oj.leetcode.com/problems/plus-one/) | [Java](./src/PlusOne.java) |
@@ -40,3 +43,12 @@ LeetCode Java Solution
 | [Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/) | [Java](./src/LongestCommonPrefix.java) |
 | [Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/) | [Java](./src/ValidParentheses.java) |
 | [Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/) | [Java](./src/ValidSudoku.java) |
+| [Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/ReverseWordsInAString.java) |
+| [Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/) | [Java](./src/LinkedListCycle.java) |
+| [Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/) | [Java](./src/LinkedListCycleII.java) |
+| [Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/) | [Java](./src/InsertionSortList.java) |
+| [Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/) | [Java](./src/ReverseLinkedListII.java) |
+| [Partition List](https://oj.leetcode.com/problems/partition-list/) | [Java](./src/PartitionList.java) |
+| [Reorder List](https://oj.leetcode.com/problems/reorder-list/) | [Java](./src/ReorderList.java) |
+| [Rotate List](https://oj.leetcode.com/problems/rotate-list/) | [Java](./src/RotateList.java) |
+| [Sort List](https://oj.leetcode.com/problems/sort-list/) | [Java](./src/SortList.java) |

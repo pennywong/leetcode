@@ -52,3 +52,28 @@ LeetCode Java Solution
 | [Reorder List](https://oj.leetcode.com/problems/reorder-list/) | [Java](./src/ReorderList.java) |
 | [Rotate List](https://oj.leetcode.com/problems/rotate-list/) | [Java](./src/RotateList.java) |
 | [Sort List](https://oj.leetcode.com/problems/sort-list/) | [Java](./src/SortList.java) |
+| [Single Number](https://oj.leetcode.com/problems/single-number/) | [Java](./src/SingleNumber.java) |
+| [Single Number II](https://oj.leetcode.com/problems/single-number-ii/) | [Java](./src/SingleNumberII.java) |
+| [Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/) | [Java](./src/SearchInsertPosition.java) |
+| [Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/PopulatingNextRightPointersInEachNode.java) |
+| [Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](./src/ConvertSortedListToBinarySearchTree.java) |
+| [Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./src/ConvertSortedArrayToBinarySearchTree.java) |
+| [Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [Java](./src/FindPeakElement.java) |
+| [Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/) | [Java](./src/Sqrt.java) |
+| [Pow](https://oj.leetcode.com/problems/powx-n/) | [Java](./src/Pow.java) |
+| [Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./src/FindMinimumInRotatedSortedArray.java) |
+| [Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [Java](./src/AddTwoNumbers.java) |
+| [Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./src/BinaryTreePreorderTraversal.java) |
+| [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./src/BinaryTreeInorderTraversal.java) |
+| [Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./src/BinaryTreePostorderTraversal.java) |
+| [Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/BinaryTreeZigzagLevelOrderTraversal.java) |
+| [Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/) | [Java](./src/ValidateBinarySearchTree.java) |
+| [Sort Colors](https://oj.leetcode.com/problems/sort-colors/) | [Java](./src/SortColors.java) |
+| [Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./src/SwapNodesInPairs.java) |
+| [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./src/FlattenBinaryTreeToLinkedList.java) |
+| [Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/) | [Java](./src/MaximumSubarray.java) |
+| [Permutations](https://oj.leetcode.com/problems/permutations/) | [Java](./src/Permutations.java) |
+| [Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [Java](./src/MultiplyStrings.java) |
+| [Rotate Image](https://oj.leetcode.com/problems/rotate-image/) | [Java](./src/RotateImage.java) |
+| [Anagrams](https://oj.leetcode.com/problems/anagrams/) | [Java](./src/Anagrams.java) |
+| [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/LongestSubstringWithoutRepeatingCharacters.java) |

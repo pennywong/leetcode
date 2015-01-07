@@ -77,3 +77,10 @@ LeetCode Java Solution
 | [Rotate Image](https://oj.leetcode.com/problems/rotate-image/) | [Java](./src/RotateImage.java) |
 | [Anagrams](https://oj.leetcode.com/problems/anagrams/) | [Java](./src/Anagrams.java) |
 | [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/LongestSubstringWithoutRepeatingCharacters.java) |
+| [Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Java](./src/ExcelSheetColumnNumber.java) |
+| [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/) | [Java](./src/UniqueBinarySearchTrees.java) |
+| [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](./src/MajorityElement.java) |
+| [Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [Java](./src/UniquePaths.java) |
+| [Gray Code](https://oj.leetcode.com/problems/gray-code/) | [Java](./src/GrayCode.java) |
+| [Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/) | [Java](./src/GenerateParentheses.java) |
+| [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/BestTimeToBuyAndSellStock.java) |

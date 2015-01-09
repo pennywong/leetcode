@@ -56,6 +56,7 @@ LeetCode Java Solution
 | [Single Number II](https://oj.leetcode.com/problems/single-number-ii/) | [Java](./src/SingleNumberII.java) |
 | [Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/) | [Java](./src/SearchInsertPosition.java) |
 | [Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/PopulatingNextRightPointersInEachNode.java) |
+| [Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/PopulatingNextRightPointersInEachNodeII.java) |
 | [Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](./src/ConvertSortedListToBinarySearchTree.java) |
 | [Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./src/ConvertSortedArrayToBinarySearchTree.java) |
 | [Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [Java](./src/FindPeakElement.java) |
@@ -84,3 +85,12 @@ LeetCode Java Solution
 | [Gray Code](https://oj.leetcode.com/problems/gray-code/) | [Java](./src/GrayCode.java) |
 | [Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/) | [Java](./src/GenerateParentheses.java) |
 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/BestTimeToBuyAndSellStock.java) |
+| [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/BestTimeToBuyAndSellStockII.java) |
+| [Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/) | [Java](./src/ContainerWithMostWater.java) |
+| [Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/) | [Java](./src/MinimumPathSum.java) |
+| [Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/) | [Java](./src/SearchA2DMatrix.java) |
+| [Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/) | [Java](./src/SetMatrixZeroes.java) |
+| [Combinations](https://oj.leetcode.com/problems/combinations/) | [Java](./src/Combinations.java) |
+| [Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/) | [Java](./src/SpiralMatrix.java) |
+| [Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/) | [Java](./src/SpiralMatrixII.java) |
+| [Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](./src/SumRootToLeafNumbers.java) |

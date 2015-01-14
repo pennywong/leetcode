@@ -6,6 +6,9 @@ LeetCode Java Solution
 | Title | Solution |
 | ----- | -------- |
 | [Two Sum](https://oj.leetcode.com/problems/two-sum/) | [Java](./src/TwoSum.java) |
+| [3Sum](https://oj.leetcode.com/problems/3sum/) | [Java](./src/ThreeSum.java) |
+| [3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/) | [Java](./src/ThreeSumClosest.java) |
+| [4Sum](https://oj.leetcode.com/problems/4sum/) | [Java](./src/FourSum.java) |
 | [ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/) | [Java](./src/ZigZag.java) |
 | [String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/) | [Java](./src/StringToInteger.java) |
 | [Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) | [Java](./src/ReverseInteger.java) |
@@ -63,6 +66,9 @@ LeetCode Java Solution
 | [Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/) | [Java](./src/Sqrt.java) |
 | [Pow](https://oj.leetcode.com/problems/powx-n/) | [Java](./src/Pow.java) |
 | [Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./src/FindMinimumInRotatedSortedArray.java) |
+| [Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](./src/FindMinimumInRotatedSortedArrayII.java) |
+| [Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/SearchInRotatedSortedArray.java) |
+| [Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](./src/SearchInRotatedSortedArrayII.java) |
 | [Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [Java](./src/AddTwoNumbers.java) |
 | [Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./src/BinaryTreePreorderTraversal.java) |
 | [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./src/BinaryTreeInorderTraversal.java) |
@@ -79,6 +85,7 @@ LeetCode Java Solution
 | [Anagrams](https://oj.leetcode.com/problems/anagrams/) | [Java](./src/Anagrams.java) |
 | [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/LongestSubstringWithoutRepeatingCharacters.java) |
 | [Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Java](./src/ExcelSheetColumnNumber.java) |
+| [Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](./src/ExcelSheetColumnTitle.java) |
 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/) | [Java](./src/UniqueBinarySearchTrees.java) |
 | [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](./src/MajorityElement.java) |
 | [Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [Java](./src/UniquePaths.java) |
@@ -94,3 +101,10 @@ LeetCode Java Solution
 | [Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/) | [Java](./src/SpiralMatrix.java) |
 | [Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/) | [Java](./src/SpiralMatrixII.java) |
 | [Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](./src/SumRootToLeafNumbers.java) |
+| [Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [Java](./src/CompareVersionNumbers.java) |
+| [Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./src/FactorialTrailingZeroes.java) |
+| [Gas Station](https://oj.leetcode.com/problems/gas-station/) | [Java](./src/GasStation.java) |
+| [Clone Graph](https://oj.leetcode.com/problems/clone-graph/) | [Java](./src/CloneGraph.java) |
+| [Largest Number](https://oj.leetcode.com/problems/largest-number/) | [Java](./src/LargestNumber.java) |
+| [Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/) | [Java](./src/PalindromePartitioning.java) |
+| [Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/) | [Java](./src/SurroundedRegions.java) |

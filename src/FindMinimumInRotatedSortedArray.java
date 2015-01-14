@@ -8,6 +8,20 @@ public class FindMinimumInRotatedSortedArray {
         if (num.length == 0)
             return Integer.MIN_VALUE;
 
+        if (num.length == 1)
+            return num[0];
+
+        for (int i = 1; i < num.length; i++) {
+            if (num[i - 1] > num[i])
+                return num[i];
+        }
+        return num[0];
+    }
+
+    public int findMin2(int[] num) {
+        if (num.length == 0)
+            return Integer.MIN_VALUE;
+
         int l = 0;
         int h = num.length - 1;
 
@@ -22,7 +36,7 @@ public class FindMinimumInRotatedSortedArray {
         return num[l];
     }
 
-    public int findMin2(int[] num) {
+    public int findMin3(int[] num) {
         if (num.length == 0)
             return Integer.MIN_VALUE;
 

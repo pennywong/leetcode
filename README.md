@@ -108,3 +108,11 @@ LeetCode Java Solution
 | [Largest Number](https://oj.leetcode.com/problems/largest-number/) | [Java](./src/LargestNumber.java) |
 | [Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/) | [Java](./src/PalindromePartitioning.java) |
 | [Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/) | [Java](./src/SurroundedRegions.java) |
+| [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./src/MedianOfTwoSortedArrays.java) |
+| [Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [Java](./src/LongestPalindromicSubstring.java) |
+| [Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/) | [Java](./src/RegularExpressionMatching.java) |
+| [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./src/LetterCombinationsOfAPhoneNumber.java) |
+| [Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/) | [Java](./src/MergeKSortedLists.java) |
+| [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](./src/ReverseNodesInKGroup.java) |
+| [Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [Java](./src/DivideTwoIntegers.java) |
+| [Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/) | [Java](./src/SearchForARange.java) |

@@ -80,6 +80,7 @@ LeetCode Java Solution
 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./src/FlattenBinaryTreeToLinkedList.java) |
 | [Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/) | [Java](./src/MaximumSubarray.java) |
 | [Permutations](https://oj.leetcode.com/problems/permutations/) | [Java](./src/Permutations.java) |
+| [Permutations II](https://oj.leetcode.com/problems/permutations-ii/) | [Java](./src/PermutationsII.java) |
 | [Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [Java](./src/MultiplyStrings.java) |
 | [Rotate Image](https://oj.leetcode.com/problems/rotate-image/) | [Java](./src/RotateImage.java) |
 | [Anagrams](https://oj.leetcode.com/problems/anagrams/) | [Java](./src/Anagrams.java) |
@@ -89,6 +90,7 @@ LeetCode Java Solution
 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/) | [Java](./src/UniqueBinarySearchTrees.java) |
 | [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](./src/MajorityElement.java) |
 | [Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [Java](./src/UniquePaths.java) |
+| [Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [Java](./src/UniquePathsII.java) |
 | [Gray Code](https://oj.leetcode.com/problems/gray-code/) | [Java](./src/GrayCode.java) |
 | [Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/) | [Java](./src/GenerateParentheses.java) |
 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/BestTimeToBuyAndSellStock.java) |
@@ -116,3 +118,21 @@ LeetCode Java Solution
 | [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](./src/ReverseNodesInKGroup.java) |
 | [Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [Java](./src/DivideTwoIntegers.java) |
 | [Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/) | [Java](./src/SearchForARange.java) |
+| [Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](./src/SubstringWithConcatenationOfAllWords.java) |
+| [Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/) | [Java](./src/LongestValidParentheses.java) |
+| [Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/) | [Java](./src/SudokuSolver.java) |
+| [Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/) | [Java](./src/CombinationSumII.java) |
+| [First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/) | [Java](./src/FirstMissingPositive.java) |
+| [Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/) | [Java](./src/WildcardMatching.java) |
+| [Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/) | [Java](./src/WildcardMatching.java) |
+| [N-Queens](https://oj.leetcode.com/problems/n-queens/) | [Java](./src/NQueens.java) |
+| [N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/) | [Java](./src/NQueensII.java) |
+| [Insert Interval](https://oj.leetcode.com/problems/insert-interval/) | [Java](./src/InsertInterval.java) |
+| [Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/) | [Java](./src/MergeIntervals.java) |
+| [Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/) | [Java](./src/PermutationSequence.java) |
+| [Valid Number](https://oj.leetcode.com/problems/valid-number/) | [Java](./src/ValidNumber.java) |
+| [Text Justification](https://oj.leetcode.com/problems/text-justification/) | [Java](./src/TextJustification.java) |
+| [Simplify Path](https://oj.leetcode.com/problems/simplify-path/) | [Java](./src/SimplifyPath.java) |
+| [Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/) | [Java](./src/MinimumWindowSubstring.java) |
+| [WordSearch](https://oj.leetcode.com/problems/word-search/) | [Java](./src/WordSearch.java) |
+| [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](./src/WordSearch.java) |

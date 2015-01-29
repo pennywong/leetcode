@@ -95,6 +95,7 @@ LeetCode Java Solution
 | [Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/) | [Java](./src/GenerateParentheses.java) |
 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/BestTimeToBuyAndSellStock.java) |
 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/BestTimeToBuyAndSellStockII.java) |
+| [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Java](./src/BestTimeToBuyAndSellStockIII.java) |
 | [Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/) | [Java](./src/ContainerWithMostWater.java) |
 | [Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/) | [Java](./src/MinimumPathSum.java) |
 | [Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/) | [Java](./src/SearchA2DMatrix.java) |
@@ -109,6 +110,7 @@ LeetCode Java Solution
 | [Clone Graph](https://oj.leetcode.com/problems/clone-graph/) | [Java](./src/CloneGraph.java) |
 | [Largest Number](https://oj.leetcode.com/problems/largest-number/) | [Java](./src/LargestNumber.java) |
 | [Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/) | [Java](./src/PalindromePartitioning.java) |
+| [Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/) | [Java](./src/PalindromePartitioningII.java) |
 | [Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/) | [Java](./src/SurroundedRegions.java) |
 | [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](./src/MedianOfTwoSortedArrays.java) |
 | [Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [Java](./src/LongestPalindromicSubstring.java) |
@@ -136,3 +138,23 @@ LeetCode Java Solution
 | [Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/) | [Java](./src/MinimumWindowSubstring.java) |
 | [WordSearch](https://oj.leetcode.com/problems/word-search/) | [Java](./src/WordSearch.java) |
 | [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](./src/WordSearch.java) |
+| [Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/) | [Java](./src/MaximalRectangle.java) |
+| [Scramble String](https://oj.leetcode.com/problems/scramble-string/) | [Java](./src/ScrambleString.java) |
+| [Decode Ways](https://oj.leetcode.com/problems/decode-ways/) | [Java](./src/DecodeWays.java) |
+| [Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/) | [Java](./src/RestoreIPAddresses.java) |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./src/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) |
+| [Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](./src/ConstructBinaryTreeFromInorderAndPostorderTraversal.java) |
+| [Interleaving String](https://oj.leetcode.com/problems/interleaving-string/) | [Java](./src/isInterleave.java) |
+| [Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/) | [Java](./src/isInterleave.java) |
+| [Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](./src/BinaryTreeMaximumPathSum.java) |
+| [Word Ladder](https://oj.leetcode.com/problems/word-ladder/) | [Java](./src/BinaryTreeMaximumPathSum.java) |
+| [Candy](https://oj.leetcode.com/problems/candy/) | [Java](./src/Candy.java) |
+| [Word Break](https://oj.leetcode.com/problems/word-break/) | [Java](./src/WordBreak.java) |
+| [Word Break II](https://oj.leetcode.com/problems/word-break-ii/) | [Java](./src/WordBreak.java) |
+| [Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./src/EvaluateReversePolishNotation.java) |
+| [Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | [Java](./src/DungeonGame.java) |
+| [Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](./src/FractionToRecurringDecimal.java) |
+| [Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/) | [Java](./src/MaximumProductSubarray.java) |
+| [Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/) | [Java](./src/MaxPointsOnALine.java) |
+| [LRU Cache](https://oj.leetcode.com/problems/lru-cache/) | [Java](./src/LRUCache.java) |
+| [Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/) | [Java](./src/WordLadderII.java) |

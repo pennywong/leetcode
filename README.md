@@ -88,6 +88,7 @@ LeetCode Java Solution
 | [Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/) | [Java](./src/ExcelSheetColumnNumber.java) |
 | [Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](./src/ExcelSheetColumnTitle.java) |
 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/) | [Java](./src/UniqueBinarySearchTrees.java) |
+| [Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/) | [Java](./src/UniqueBinarySearchTreesII.java) |
 | [Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](./src/MajorityElement.java) |
 | [Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [Java](./src/UniquePaths.java) |
 | [Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [Java](./src/UniquePathsII.java) |
@@ -158,3 +159,15 @@ LeetCode Java Solution
 | [Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/) | [Java](./src/MaxPointsOnALine.java) |
 | [LRU Cache](https://oj.leetcode.com/problems/lru-cache/) | [Java](./src/LRUCache.java) |
 | [Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/) | [Java](./src/WordLadderII.java) |
+| [Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | [Java](./src/BSTIterator.java) |
+| [Combination Sum](https://oj.leetcode.com/problems/combination-sum/) | [Java](./src/CombinationSum.java) |
+| [Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/CopyListWithRandomPointer.java) |
+| [Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/) | [Java](./src/DistinctSubsequences.java) |
+| [Edit Distance](https://oj.leetcode.com/problems/edit-distance/) | [Java](./src/EditDistance.java) |
+| [Jump Game](https://oj.leetcode.com/problems/jump-game/) | [Java](./src/JumpGame.java) |
+| [Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/) | [Java](./src/LongestConsecutiveSequence.java) |
+| [Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [Java](./src/MaximumGap.java) |
+| [Next Permutation](https://oj.leetcode.com/problems/next-permutation/) | [Java](./src/NextPermutation.java) |
+| [Subsets](https://oj.leetcode.com/problems/subsets/) | [Java](./src/Subsets.java) |
+| [Subsets II](https://oj.leetcode.com/problems/subsets-ii/) | [Java](./src/SubsetsII.java) |
+| [Triangle](https://oj.leetcode.com/problems/triangle/) | [Java](./src/Triangle.java) |
